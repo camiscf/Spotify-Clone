@@ -59,6 +59,10 @@ nav.navbar-transparente{
     background-color: white;
     color: black;
 }
+
+.carousel-control-next, .carousel-control-prev{
+   width: 5%;
+}
 /* Conteudos */
 #servico{
     background: white;
@@ -157,6 +161,8 @@ h3{
 @media (max-width: 575.98px) { 
     .btn-custom{
         margin: 10px 15px;
+        font-size: 1em;
+
     }
  }
 
